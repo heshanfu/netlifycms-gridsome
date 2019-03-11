@@ -9,6 +9,7 @@ tags:
 cover_image: /images/uploads/schildkröte.jpg
 canonical_url: true
 description: And also a little bit of description text.
-content: add come content - have a look if it renders...
 ---
+
+add some content - have a look if it renders...
 
