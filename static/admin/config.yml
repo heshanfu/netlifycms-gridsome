@@ -33,10 +33,11 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Published", name: "published", widget: "boolean"}
-      - {label: "Tags", name: "tags", widget: "list", default: "Markdown",
-          field: {label: Name, name: name, widget: string, default: "tag"}
-        }
+      - {label: "Published", name: "published", widget: "boolean", required: false}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        field: {label: Name, name: name, widget: string, default: "tag"}
       - {label: "Cover Image", name: "cover_image", widget: "image"}
-      - {label: "Canonical", name: "canonical_url", widget: "boolean"}
+      - {label: "Canonical", name: "canonical_url", widget: "boolean", required: false}
       - {label: "Description", name: "description", widget: "markdown"}
