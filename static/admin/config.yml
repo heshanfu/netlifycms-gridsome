@@ -24,13 +24,15 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "URL", name: "url", widget: "string"}
       - {label: "Screenshot", name: "screenshot", widget: "image"}
-  - name: "services" # Used in routes, e.g., /admin/collections/blog
-    label: "Service" # Used in the UI
-    folder: "content/services" # The path to the folder where the documents are stored
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     format: 'json'
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "datetime"}
+      - {label: "Canonical", name: "canonical_url", widget: "boolean"}
       - {label: "Description", name: "description", widget: "markdown"}
