@@ -8,12 +8,12 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/suits_at">Follow on Twitter</a>
+			<a href="https://github.com/suits-at/my-gridsome-site">GitHub</a>
 		</p>
 
 	</div>
