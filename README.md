@@ -13,7 +13,7 @@
 
 ## Demo URL
 
-https://gridsometest.netlify.com/
+http://gridsome.suits.at/
 
 ## Install
 
