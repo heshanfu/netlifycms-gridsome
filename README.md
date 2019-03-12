@@ -13,7 +13,7 @@
 
 ## Demo URL
 
-http://gridsome.suits.at/
+https://gridsome.suits.at/
 
 ## Install
 
