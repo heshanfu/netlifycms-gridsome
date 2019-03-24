@@ -1,8 +1,6 @@
 <template>
 	<div class="author">
 
-		<g-image alt="Author image" class="author__image" src="~/assets/images/author.jpg" width="180" height="180" blur="5" />
-
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metaData.siteName }}
 		</h1>
@@ -13,7 +11,7 @@
 
 		<p class="author__links">
 			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/my-gridsome-site">GitHub</a>
+			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
 		</p>
 
 	</div>
@@ -38,7 +36,7 @@ export default {
 	margin: 0 auto;
 	max-width: 500px;
 	text-align: center;
-	padding: calc(var(--space) / 2) 0;
+	padding-bottom: calc(var(--space) / 2);
 
 	&__image {
 		border-radius: 100%;
@@ -52,7 +50,9 @@ export default {
 	}
 
 	&__site-title {
+		margin: 0 auto;
 		font-size: 1.5em;
+		max-width: 400px;
 	}
 
 	&__links {
