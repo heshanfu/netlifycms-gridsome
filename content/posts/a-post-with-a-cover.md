@@ -1,25 +1,50 @@
 ---
-title: A post with a cover imageaaa
-date: 2019-01-07T00:00:00.000Z
+title: 'A post with a cover '
+date: 2019-04-02T14:48:55.061Z
 published: true
 tags:
-  - Markdown
-  - Cover Image
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
-canonical_url: false
-description: >-
-  Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
-  Readability, however, is emphasized above all else. A Markdown-formatted
-  document should be publishable as-is, as plain text, without looking like it's
-  been marked up with tags or formatting instructions.
+  - name: tag
+cover_image: /images/uploads/schildkröte.jpg
+description: 半年前一席找到我的时候，我第一反应是，一席的嘉宾质量这么差了吗？
 ---
-
-Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions. 
-
-While Markdown's syntax has been influenced by several existing text-to-HTML filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
+半年前一席找到我的时候，我第一反应是，一席的嘉宾质量这么差了吗？
 
 
+
+
+
+
+
+我思考了很久，今天来这里要跟大家分享点什么。
+
+
+
+ 
+
+
+
+我这几年其实只做了一件事，那就是——无聊。
+
+
+
+
+
+
+
+大概在2015年的时候，我决定成为一个无聊的人。
+
+
+
+
+
+
+
+我面临的第一个问题是，一个无聊的人到底应该做什么？
+
+
+
+
+
+
+
+本文作者王村村。转载自微信公众号“一席”（id:yixiclub）。
